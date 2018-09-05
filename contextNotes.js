@@ -141,3 +141,6 @@ render(){
     </form>
   )
 }
+
+//get param in url
+const id = this.props.match.params.id
